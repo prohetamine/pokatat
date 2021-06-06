@@ -1,0 +1,6 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 0C6.3 0 0 6.3 0 14C0 21.7 6.3 28 14 28C21.7 28 28 21.7 28 14C28 6.2 21.7 0 14 0ZM14 26.1C7.3 26.1 1.9 20.6 1.9 14C1.9 7.3 7.4 1.9 14 1.9C20.7 1.9 26.1 7.4 26.1 14C26.1 20.6 20.7 26.1 14 26.1Z" fill="white"/>
+<circle cx="14" cy="14" fill="none" stroke="#ffffff" stroke-width="2" r="6" stroke-dasharray="25.80972450961724 41.269908169872416" transform="rotate(113.372 50 50)">
+  <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="0.9615384615384615s" values="0 14 14;360 14 14" keyTimes="0;1"></animateTransform>
+</circle>
+</svg>

@@ -1,0 +1,45 @@
+body, html {
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+* {
+  text-decoration: none;
+}
+
+.window-scroller-override {
+  height: 100% !important;
+}
+
+@font-face {
+    font-family: "CRC25";
+    src: url('./style/fonts/CRC25.otf');
+}
+
+@font-face {
+    font-family: "CRC35";
+    src: url('./style/fonts/CRC35.otf');
+}
+
+@font-face {
+    font-family: "CRC55";
+    src: url('./style/fonts/CRC55.otf');
+}
+
+@font-face {
+    font-family: "Circe-Bold";
+    src: url('./style/fonts/Circe-Bold.otf');
+}
+
+@font-face {
+    font-family: "Circe-ExtraBold";
+    src: url('./style/fonts/Circe-ExtraBold.otf');
+}
+
+
+@keyframes blink {
+	0% {opacity: 0}
+	30% {opacity: 1}
+	100% {opacity: 0}
+}
